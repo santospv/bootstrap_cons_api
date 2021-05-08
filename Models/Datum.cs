@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
-  
-  namespace bootstrap_cons_api.Models
+
+namespace bootstrap_cons_api.Models
 {
-public class Datum
+    public class Datum
     {
         [JsonPropertyName("tipoJogo")]
         public string TipoJogo { get; set; }
@@ -39,7 +39,7 @@ public class Datum
         public List<string> DezenasSorteadasOrdemSorteio { get; set; }
 
         [JsonPropertyName("listaResultadoEquipeEsportiva")]
-        public object ListaResultadoEquipeEsportiva { get; set; }
+       public List<ListaResultadoEquipeEsportiva> ListaResultadoEquipeEsportiva { get; set; }
 
         [JsonPropertyName("numeroJogo")]
         public int NumeroJogo { get; set; }
