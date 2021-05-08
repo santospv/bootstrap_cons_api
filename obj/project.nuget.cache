@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9w+dUVsaYkOJgGG2I+eMNm9MPToxQxob7v20f4eDTUi7nE5IkreEuB/Z65D+ix3ecJNAuBzWDXaUJQ7CNC6OLA==",
+  "dgSpecHash": "yDTJ7iyBYZrQV7kWMV05bQO1nY+sTC3y3dMf5Cs+xB//ZG1Rr2ByBe3A+q84TNN8VOy4q9GbVYK5mdNPn0JF4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\paulo\\Documents\\bootstrap_cons_api\\bootstrap_cons_api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

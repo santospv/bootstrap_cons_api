@@ -15624,13 +15624,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Lotofacil.cshtml",
+      "TargetPath": "Views\\Home\\Lotofacil.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Megasena.cshtml",
       "TargetPath": "Views\\Home\\Megasena.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Loteca.cshtml",
+      "TargetPath": "Views\\Home\\Loteca.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Quina.cshtml",
+      "TargetPath": "Views\\Home\\Quina.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Timemania.cshtml",
+      "TargetPath": "Views\\Home\\Timemania.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Duplasena.cshtml",
+      "TargetPath": "Views\\Home\\Duplasena.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,8 +15669,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Diadesorte.cshtml",
+      "TargetPath": "Views\\Home\\Diadesorte.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Federal.cshtml",
+      "TargetPath": "Views\\Home\\Federal.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\paulo\\Documents\\bootstrap_cons_api\\Views\\Home\\Lotomania.cshtml",
+      "TargetPath": "Views\\Home\\Lotomania.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -39,3 +39,12 @@ C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\bootstrap_cons_api.
 C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\bootstrap_cons_api.genruntimeconfig.cache
 C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\bootstrap_cons_api.csproj.CopyComplete
 C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Megasena.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Quina.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Diadesorte.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Duplasena.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Federal.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Loteca.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Lotofacil.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Lotomania.cshtml.g.cs
+C:\Users\paulo\Documents\bootstrap_cons_api\obj\Debug\net5.0\Razor\Views\Home\Timemania.cshtml.g.cs
