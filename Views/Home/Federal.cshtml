@@ -1,54 +1,49 @@
+@using bootstrap_cons_api.Services
 @{
-    ViewData["Title"] = "MegaSena";
+    var obj = new ServicesDataResponse().GetDataResponse("https://lotericas.io/api/v1/jogos/federal/lasted");
+    var obj2 = obj.Data[0];
+    ViewData["Title"] = "Federal";
 }
 <h1>@ViewData["Title"]</h1>
 
 <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-      <div class="col-lg-2 col-sm-4">
+    <div class="col-lg-2 col-sm-4">
         <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title" id =1>1</h1>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">@obj2.ListaDezenas[0]</h1>
             </div>
         </div>
-      </div>
-
-      <div class="col-lg-2 col-sm-4">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">2</h1>
-            </div>
-        </div>
-      </div>
-
-      <div class="col-lg-2 col-sm-4">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">3</h1>
-        </div>
-        </div>
-      </div>
-
-      <div class="col-lg-2 col-sm-4">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">4</h1>
-            </div>
-        </div>
-      </div>
-
-      <div class="col-lg-2 col-sm-4">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">5</h1>
-            </div>
-        </div>
-      </div>
-
-      <div class="col-lg-2 col-sm-4">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">6</h1>
-        </div>
-        </div>
-      </div>
     </div>
+
+    <div class="col-lg-2 col-sm-4">
+        <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">@obj2.ListaDezenas[1]</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-4">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">@obj2.ListaDezenas[2]</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-4">
+        <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">@obj2.ListaDezenas[3]</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-2 col-sm-4">
+        <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">@obj2.ListaDezenas[4]</h1>
+            </div>
+        </div>
+    </div>
+</div>
